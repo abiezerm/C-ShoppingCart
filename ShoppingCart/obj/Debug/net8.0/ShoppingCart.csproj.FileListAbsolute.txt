@@ -1,0 +1,14 @@
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/bin/Debug/net8.0/ShoppingCart
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/bin/Debug/net8.0/ShoppingCart.deps.json
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/bin/Debug/net8.0/ShoppingCart.runtimeconfig.json
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/bin/Debug/net8.0/ShoppingCart.dll
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/bin/Debug/net8.0/ShoppingCart.pdb
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ShoppingCart.AssemblyInfoInputs.cache
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ShoppingCart.AssemblyInfo.cs
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ShoppingCart.csproj.CoreCompileInputs.cache
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ShoppingCart.dll
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/refint/ShoppingCart.dll
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ShoppingCart.pdb
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ShoppingCart.genruntimeconfig.cache
+/Users/abiezermatos/Projects/ShoppingCart/ShoppingCart/obj/Debug/net8.0/ref/ShoppingCart.dll
